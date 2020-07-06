@@ -1,1 +1,1 @@
-A basic rental system built using Tkinter and Sqlite3 database.
+A basic vehicle rental system built using Tkinter and Sqlite3 database. It performs all the CRUD operations.
